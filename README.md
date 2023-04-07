@@ -1,1 +1,2 @@
 # NHL-Database
+The database will allow the customers/fans to view all records related to NHL information, including players’ stats, teams’ stats, teams’ calendars, etc. The fans should also be able to apply filters to sort the information based on their preference, such as favourite team or favourite player. As well, in the team’s calendars there will be a link that allows the customers to buy tickets for the upcoming events or tournaments. 
